@@ -4,7 +4,7 @@
   "description": "Standalonify for spm.",
   "main": "index",
   "dependencies": {
-    "cmdclean": "~0.1.0",
+    "cmdclean": "~0.2.0",
     "through2": "~0.6.1"
   },
   "devDependencies": {
